@@ -3,7 +3,6 @@
 ### **Domain:** Customer Experience & Public Safety  
 ### **Project Title:** SafeWalk – Neighbourhood Emergency & Safety Tool  
 ### **Author:** Tanu Singh (23BAI10750)
-### **Deployed Link:** https://safewalk-seven.vercel.app
 
 ---
 
