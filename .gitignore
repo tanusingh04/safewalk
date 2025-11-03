@@ -2,6 +2,8 @@
 
 # dependencies
 # /node_modules  # Removed to allow pushing node_modules
+# But exclude large binary files that exceed GitHub's 100MB limit
+node_modules/@next/swc-*/*.node
 
 # next.js
 /.next/
